@@ -1,0 +1,10 @@
+{
+  "name": "fundcode-scraper",
+  "version": "0.1.0",
+  "main": "yourfile.js",
+  "author": "Suwijak Chaipipat",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
